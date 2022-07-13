@@ -1,1 +1,0 @@
-# ThanoSQL Tutorial Data
