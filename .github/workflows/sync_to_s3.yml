@@ -19,5 +19,5 @@ jobs:
           aws-region: ap-northeast-2
           
       - name: Sync with S3
-        run: aws s3 sync . s3://[thanosql-tutorial]
+        run: aws s3 sync . s3://thanosql-tutorial
 
