@@ -1,0 +1,27 @@
+name: Push Tutorials
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes tutorial folder
+      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_folder: 'tutorial'
+        destination_repo: 'smartmind-team/thanosql-docs'
+        destination_branch: 'development'
+        destination_folder: 'docs/ko/tutorial'
+        user_email: 'lkjjr0424@hanmail.net'
+        user_name: 'Minho Lee'
+        commit_msg: 'Update from https://github.com/${{ github.repository }}/commit/${{ github.sha }}'
