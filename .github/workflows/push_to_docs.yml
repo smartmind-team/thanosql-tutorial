@@ -23,5 +23,5 @@ jobs:
         destination_branch: 'development'
         destination_folder: 'docs/ko/tutorial'
         user_email: 'lkjjr0424@hanmail.net'
-        user_name: 'yeemh'
+        user_name: 'Minho Lee'
         commit_msg: 'Update from https://github.com/${{ github.repository }}/commit/${{ github.sha }}'
