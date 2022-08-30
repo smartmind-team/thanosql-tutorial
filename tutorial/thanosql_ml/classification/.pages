@@ -1,0 +1,4 @@
+nav:
+    - automl_classification.ipynb
+    - classification_convNext.ipynb
+    - classification_Electra.ipynb
