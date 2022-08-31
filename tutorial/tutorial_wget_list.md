@@ -4,12 +4,12 @@ title: 원하는 Tutorial 가져오기
 
 # __원하는 Tutorial 가져오기__ 
 
-특정 tutorial만 자신의 워크스페이스로 가지고 오고 싶다면 아래와 같이 wget 메서드를 사용하면 됩니다. 
+특정 Tutorial만 자신의 워크스페이스로 가지고 오고 싶다면 아래와 같이 wget 메서드를 사용하면 됩니다. 
 
 ## __1. Jupyter 노트북 상에서 wget 사용 방법__
 
 ```
-! wget [가져올 tutorial의 Github URL]
+!wget [가져올 Tutorial의 Github URL]
 ```
 ## __2. Tutorial별 Github URL__
 
