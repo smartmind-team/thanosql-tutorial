@@ -1,4 +1,4 @@
 nav:
-    - select_image_query.ipynb
-    - simclr_image_search.ipynb
-    - clip_image_search.ipynb
+    - search_image_by_keyword.ipynb
+    - search_image_by_image.ipynb
+    - search_image_by_text.ipynb
