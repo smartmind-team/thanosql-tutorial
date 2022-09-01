@@ -15,11 +15,11 @@ title: 원하는 Tutorial 가져오기
 
 | Tutorial      | URL                          |
 | :---------: | :----------------------------------: |
-| `이미지로 이미지 검색하기`       | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_search/search_image_by_image.ipynb  |
 | `키워드로 이미지 검색하기`       | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_search/search_image_by_keyword.ipynb |
+| `이미지로 이미지 검색하기`       | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_search/search_image_by_image.ipynb  |
 | `텍스트로 이미지 검색하기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_search/search_image_by_text.ipynb |
 | `Auto-ML을 사용하여 분류 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/classification/automl_classification.ipynb |
 | `이미지 분류 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/classification/image_classification.ipynb |
 | `텍스트 분류 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/classification/text_classification.ipynb |
-| `오디오 파일을 받아쓰는 음성 인식 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/audio_recognition/speech_recognition.ipynb |
 | `Auto-ML을 사용하여 예측 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/regression/automl_regression.ipynb |
+| `오디오 파일을 받아쓰는 음성 인식 모델 만들기`    | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial/thanosql_ml/audio_recognition/speech_recognition.ipynb |
