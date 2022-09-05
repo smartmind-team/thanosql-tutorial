@@ -2,3 +2,4 @@ nav:
     - classification
     - regression
     - audio_recognition
+    - udm_tutorial.ipynb
