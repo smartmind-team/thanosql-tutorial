@@ -3,8 +3,6 @@ name: Push Tutorials
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   copy-file:
