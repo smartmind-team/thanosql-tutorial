@@ -3,8 +3,6 @@ name: Push Tutorials
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   copy-file:
@@ -20,7 +18,7 @@ jobs:
       with:
         source_folder: 'tutorial'
         destination_repo: 'smartmind-team/thanosql-docs'
-        destination_branch: 'development'
+        destination_branch: 'develop'
         destination_folder: 'docs/ko/tutorials'
         user_email: 'lkjjr0424@hanmail.net'
         user_name: 'Minho Lee'
@@ -33,7 +31,7 @@ jobs:
       with:
         source_folder: 'tutorial_en'
         destination_repo: 'smartmind-team/thanosql-docs'
-        destination_branch: 'development'
+        destination_branch: 'develop'
         destination_folder: 'docs/en/tutorials'
         user_email: 'lkjjr0424@hanmail.net'
         user_name: 'Minho Lee'
