@@ -13,7 +13,6 @@ Use the wget method to download the desired ThanoSQL tutorial.
 ```
 ## __2. The tutorials' Github URL__
 
-
 | Tutorial      | URL                          |
 | :---------: | :----------------------------------: |
 | `Search Image By Image`       | https://raw.githubusercontent.com/smartmind-team/thanosql-tutorial/main/tutorial_en/thanosql_search/search_image_by_keyword.ipynb |
