@@ -1,0 +1,4 @@
+nav:
+    - automl_classification.ipynb
+    - image_classification.ipynb
+    - text_classification.ipynb
