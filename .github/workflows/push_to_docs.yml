@@ -2,14 +2,14 @@ name: Push Tutorials
 
 on:
   push:
-    branches: [ test/plugins ]
+    branches: [ main ]
 
 jobs:
   copy-file:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Pushes Korean tutorial folder
       uses: datalbry/copy_folder_to_another_repo_action@1.0.0
@@ -17,7 +17,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_folder: 'tutorial'
-        destination_repo: 'yeemh/docs_test'
+        destination_repo: 'smartmind-team/thanosql-docs'
         destination_branch: 'develop'
         destination_folder: 'docs/ko/tutorials'
         user_email: 'lkjjr0424@hanmail.net'
@@ -30,7 +30,7 @@ jobs:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_folder: 'tutorial_en'
-        destination_repo: 'yeemh/docs_test'
+        destination_repo: 'smartmind-team/thanosql-docs'
         destination_branch: 'develop'
         destination_folder: 'docs/en/tutorials'
         user_email: 'lkjjr0424@hanmail.net'
