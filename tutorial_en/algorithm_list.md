@@ -147,6 +147,18 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
+            <a href="/en/tutorials/thanosql_ml/timeseries/timeseries_forecasting/">
+                <h3>
+                    Create a Time Series Forecasting Model Using TFT
+                </h3>
+                <p>
+                    <br>
+                        Use the ThanoSQL's TFT model to predict buildings' future electricity consumption
+                    </br>
+                </p>
+            </a>
+        </li>
+        <li>
             <a href="/en/tutorials/thanosql_ml/udm_tutorial/">
                 <h3>
                     User Defined Model in ThanoSQL
