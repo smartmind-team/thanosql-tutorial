@@ -149,11 +149,11 @@ title: ThanoSQL All Tutorials
         <li>
             <a href="/en/tutorials/thanosql_ml/timeseries/timeseries_forecasting/">
                 <h3>
-                    Create a Time Series Forecasting Model Using TFT
+                    Create a Time Series Forecasting Model
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's TFT model to predict buildings' future electricity consumption
+                        Use the ThanoSQL's TFT model to build time series forecasting model for predicting buildings' future electricity consumption
                     </br>
                 </p>
             </a>
