@@ -147,6 +147,16 @@ title: ThanoSQL 모든 튜토리얼
             </a>
         </li>
         <li>
+            <a href="/ko/tutorials/thanosql_ml/timeseries/timeseries_forecasting/">
+                <h3>
+                    시계열 예측 모델 만들기
+                </h3>
+                <p>
+                    <br>ThanoSQL의 시계열 예측 모델을 사용하여 미래 전력 사용량 예측을 진행합니다.</br>
+                </p>
+            </a>
+        </li>
+        <li>
             <a href="/ko/tutorials/thanosql_ml/udm_tutorial/">
                 <h3>
                     User Defined Model in ThanoSQL

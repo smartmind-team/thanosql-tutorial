@@ -141,7 +141,19 @@ title: ThanoSQL All Tutorials
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question when an image and a question about the image are given
+                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question when an image and a question about the image are given.
+                    </br>
+                </p>
+            </a>
+        </li>
+        <li>
+            <a href="/en/tutorials/thanosql_ml/timeseries/timeseries_forecasting/">
+                <h3>
+                    Create a Time Series Forecasting Model
+                </h3>
+                <p>
+                    <br>
+                        Use the ThanoSQL's TFT model to build time series forecasting model for predicting buildings' future electricity usage.
                     </br>
                 </p>
             </a>
