@@ -141,7 +141,7 @@ title: ThanoSQL All Tutorials
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question when an image and a question about the image are given
+                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question when an image and a question about the image are given.
                     </br>
                 </p>
             </a>
@@ -153,7 +153,7 @@ title: ThanoSQL All Tutorials
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's TFT model to build time series forecasting model for predicting buildings' future electricity consumption
+                        Use the ThanoSQL's TFT model to build time series forecasting model for predicting buildings' future electricity usage.
                     </br>
                 </p>
             </a>
