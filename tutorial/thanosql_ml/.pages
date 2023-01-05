@@ -2,4 +2,6 @@ nav:
     - classification
     - regression
     - audio_recognition
+    - question_answering
+    - timeseries
     - udm_tutorial.ipynb
