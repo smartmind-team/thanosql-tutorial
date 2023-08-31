@@ -2,3 +2,4 @@ nav:
     - algorithm_list.md
     - thanosql_search
     - thanosql_ml
+    - thanosql_generate
