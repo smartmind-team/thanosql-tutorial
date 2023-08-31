@@ -10,7 +10,7 @@ title: ThanoSQL All Tutorials
     </header>
     <ul class="fullclick">
         <li>
-            <a href="en/tutorials/thanosql_search/search_image_by_keyword/">
+            <a href="../thanosql_search/search_image_by_keyword/">
                 <h3>
                     Search Image by Keyword
                 </h3>
@@ -20,7 +20,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_search/search_image_by_image/">
+            <a href="../thanosql_search/search_image_by_image/">
                 <h3>
                     Search Image by Image
                 </h3>
@@ -30,7 +30,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_search/search_image_by_text/">
+            <a href="../thanosql_search/search_image_by_text/">
                 <h3>
                     Search Image by Text
                 </h3>
@@ -40,17 +40,17 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_search/search_text_by_text/">
+            <a href="../thanosql_search/search_text_by_text/">
                 <h3>
                     Search Text by Text
                 </h3>
                 <p>
-                    <br>Use the ThanoSQL's text-to-text search model to search for the desired document.</br>
+                    <br>Use the ThanoSQL's text-to-text search model to search for the desired docum../ent.</br>
                 </p>
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_search/search_video_by_text/">
+            <a href="../thanosql_search/search_video_by_text/">
                 <h3>
                     Search Video by Text
                 </h3>
@@ -65,7 +65,7 @@ title: ThanoSQL All Tutorials
     </header>
     <ul class="fullclick">
         <li>
-            <a href="en/tutorials/thanosql_ml/classification/automl_classification/">
+            <a href="../thanosql_ml/classification/automl_classification/">
                 <h3>
                     Create a Classification Model Using AutoML
                 </h3>
@@ -75,7 +75,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/classification/image_classification/">
+            <a href="../thanosql_ml/classification/image_classification/">
                 <h3>
                     Create an Image Classification Model
                 </h3>
@@ -87,7 +87,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/classification/text_classification/">
+            <a href="../thanosql_ml/classification/text_classification/">
                 <h3>
                     Create a Text Classification Model
                 </h3>
@@ -99,7 +99,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/regression/automl_regression/">
+            <a href="../thanosql_ml/regression/automl_regression/">
                 <h3>
                     Create a Regression Model Using AutoML
                 </h3>
@@ -111,7 +111,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/audio_recognition/speech_recognition/">
+            <a href="../thanosql_ml/audio_recognition/speech_recognition/">
                 <h3>
                     Create a Speech Recognition Model
                 </h3>
@@ -123,31 +123,31 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/audio_recognition/speech_recognition2/">
+            <a href="../thanosql_ml/audio_recognition/speech_recognition2/">
                 <h3>
                      Using a Speech Recognition Model
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's speech recognition model to convert voice files to text and translate outcome language to English.
+                        Use the ThanoSQL's speech recognition model to convert voice files to text and translate outcome language to ../english.
                     </br>
                 </p>
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/question_answering/visual_question_answering/">
+            <a href="../thanosql_ml/question_answering/visual_question_answering/">
                 <h3>
                      Use the Visual Question Answering Model
                 </h3>
                 <p>
                     <br>
-                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question when an image and a question about the image are given.
+                        Use the ThanoSQL's Visual Question Answering model to find an appropriate answer to a question wh../en an image and a question about the image are giv../en.
                     </br>
                 </p>
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/timeseries/timeseries_forecasting/">
+            <a href="../thanosql_ml/timeseries/timeseries_forecasting/">
                 <h3>
                     Create a Time Series Forecasting Model
                 </h3>
@@ -159,7 +159,7 @@ title: ThanoSQL All Tutorials
             </a>
         </li>
         <li>
-            <a href="en/tutorials/thanosql_ml/udm_tutorial/">
+            <a href="../thanosql_ml/udm_tutorial/">
                 <h3>
                     User Defined Model in ThanoSQL
                 </h3>
