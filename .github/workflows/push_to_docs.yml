@@ -12,28 +12,17 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Pushes Korean tutorial folder
-      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+    - name: Pushes Korean / English tutorial folder
+      uses: smartmind-team/copy_folder_to_another_repo_action@master
       env:
         API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
       with:
         source_folder: 'tutorial'
+        source_folder_2: 'tutorial_en'
         destination_repo: 'smartmind-team/thanosql-docs'
         destination_branch: ${{ github.ref_name}}
         destination_folder: 'docs/ko/tutorials'
-        user_email: "github-actions[bot]@users.noreply.github.com"
-        user_name: "github-actions[bot]"
-        commit_msg: 'Update from https://github.com/${{ github.repository }}/commit/${{ github.sha }}'
-
-    - name: Pushes English tutorial folder
-      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
-      env:
-        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
-      with:
-        source_folder: 'tutorial_en'
-        destination_repo: 'smartmind-team/thanosql-docs'
-        destination_branch: ${{ github.ref_name}}
-        destination_folder: 'docs/en/tutorials'
+        destination_folder_2: 'docs/en/tutorials'
         user_email: "github-actions[bot]@users.noreply.github.com"
         user_name: "github-actions[bot]"
         commit_msg: 'Update from https://github.com/${{ github.repository }}/commit/${{ github.sha }}'
