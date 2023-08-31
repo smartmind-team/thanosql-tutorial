@@ -1,6 +1,6 @@
 # ThanoSQL Tutorial
 
-All the tutorials are now presented at: [https://docs.thanosql.ai/tutorials/algorithm_list/](https://docs.thanosql.ai/tutorials/algorithm_list/)
+All the tutorials are now presented at: [https://docs.thanosql.ai/latest/tutorials/algorithm_list/](https://docs.thanosql.ai/latest/tutorials/algorithm_list/)
 
 
 
